@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|c:\\users\\maste\\documentsclean\\my games\\cards untitled\\the silent paw\\assets\\scripts\\sc_environmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_environmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|c:\\users\\maste\\documentsclean\\my games\\cards untitled\\the silent paw\\assets\\scripts\\sc_playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\scripts\\sc_enemyvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_enemyvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\scripts\\sc_spotlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_spotlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\scripts\\sc_gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\scripts\\sc_wallfademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_wallfademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\scripts\\sc_enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\shaders\\wallfadeshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\wallfadeshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\scripts\\sc_alertui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_alertui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\scripts\\sc_pickupmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_pickupmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\assets\\scripts\\sc_dropzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_dropzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_FadeWall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sc_FadeWall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\maste\\documentsclean\\my games\\cards untitled\\the silent paw\\assets\\scripts\\sc_fogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\sc_fogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sc_EnvironmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_EnvironmentManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_EnvironmentManager.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_EnvironmentManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_EnvironmentManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:07:21.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sc_FogManager.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_FogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_FogManager.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_FogManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_FogManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:51:14.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sc_FadeWall.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_FadeWall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_FadeWall.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_FadeWall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_FadeWall.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:23:33.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sc_SpotLight.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_SpotLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_SpotLight.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_SpotLight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_SpotLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:02:31.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sc_DropZone.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_DropZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_DropZone.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_DropZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_DropZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:35:46.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sc_GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_GameManager.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:33:12.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sc_EnemyVision.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_EnemyVision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_EnemyVision.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_EnemyVision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_EnemyVision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:11:08.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sc_EnemyPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_EnemyPatrol.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_EnemyPatrol.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowDcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:05:33.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sc_PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_PlayerController.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:52:41.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sc_WallFadeManager.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_WallFadeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_WallFadeManager.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_WallFadeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_WallFadeManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:29:42.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sc_AlertUI.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_AlertUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_AlertUI.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_AlertUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_AlertUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:58:12.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WallFadeShader.shader",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Shaders\\WallFadeShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\WallFadeShader.shader",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Shaders\\WallFadeShader.shader",
+              "RelativeToolTip": "Assets\\Shaders\\WallFadeShader.shader",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-07-25T14:18:24.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sc_PickUpMessage.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_PickUpMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sc_PickUpMessage.cs",
+              "ToolTip": "C:\\Users\\maste\\DocumentsClean\\My Games\\Cards Untitled\\The Silent Paw\\Assets\\Scripts\\Sc_PickUpMessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sc_PickUpMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:32:19.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

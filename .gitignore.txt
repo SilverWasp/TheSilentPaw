@@ -1,0 +1,32 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+Obj/
+[Mm]emoryCaptures/
+Logs/
+.vs/
+.vscode/
+
+# Asset meta data should be tracked
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
