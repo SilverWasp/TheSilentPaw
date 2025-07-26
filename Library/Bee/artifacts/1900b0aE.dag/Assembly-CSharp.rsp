@@ -409,6 +409,7 @@
 "Assets/Scripts/Sc_DropZone.cs"
 "Assets/Scripts/Sc_EnemyPatrol.cs"
 "Assets/Scripts/Sc_EnemyVision.cs"
+"Assets/Scripts/Sc_Enemy_Seeker.cs"
 "Assets/Scripts/Sc_EnvironmentManager.cs"
 "Assets/Scripts/Sc_GameManager.cs"
 "Assets/Scripts/Sc_PickUpMessage.cs"
