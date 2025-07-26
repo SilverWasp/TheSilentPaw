@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F809A7F8-B62B-7BCB-F526-C9D6A5E9150A}</ProjectGuid>
+    <ProjectGuid>{C3B325EF-02E2-12A7-C02E-3755F704BCD6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,7 +64,6 @@
     <Compile Include="Assets\Scripts\Sc_EnemyVision.cs" />
     <Compile Include="Assets\Scripts\Sc_AlertUI.cs" />
     <Compile Include="Assets\Scripts\Sc_GameManager.cs" />
-    <Compile Include="Assets\Scripts\dsf.cs" />
     <Compile Include="Assets\Scripts\Sc_PickUpMessage.cs" />
     <Compile Include="Assets\Scripts\Sc_WallFadeManager.cs" />
     <Compile Include="Assets\Scripts\Sc_EnvironmentManager.cs" />
