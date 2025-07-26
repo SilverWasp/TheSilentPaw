@@ -1,40 +1,67 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.HighDefinition;
 
-[RequireComponent(typeof(Light))]
+[RequireComponent(typeof(Light), typeof(HDAdditionalLightData))]
 public class Sc_SpotLight : MonoBehaviour
 {
-    private Light spotLight;
+    private Light unityLight;
+    private HDAdditionalLightData hdData;
     private Sc_EnemyVision enemyVision;
+
+    [Header("HDRP Light Settings")]
+    public float intensityEv100 = 28f;
+    public float defaultRange = 20f;
+    public bool enableVolumetrics = true;
+    public Color lightColor = Color.white;
 
     void Awake()
     {
-        spotLight = GetComponent<Light>();
-        spotLight.intensity = 5f; // Set default intensity
-
-        // Look for Sc_EnemyVision in parent
+        unityLight = GetComponent<Light>();
+        hdData = GetComponent<HDAdditionalLightData>();
         enemyVision = GetComponentInParent<Sc_EnemyVision>();
 
-        if (enemyVision != null)
-        {
-            // Automatically sync spotlight FOV and range with enemy values
-            spotLight.range = enemyVision.visionRange;
-            spotLight.spotAngle = enemyVision.fieldOfView;
-        }
-        else
-        {
-            Debug.LogWarning("Sc_EnemyVision not found in parent for spotlight: " + gameObject.name);
-        }
+        // Set up the spotlight
+        unityLight.type = LightType.Spot;
+        unityLight.color = lightColor;
+        unityLight.range = defaultRange;
+
+        // Use built-in Light.lightUnit (Unity 6+)
+        unityLight.lightUnit = LightUnit.Lumen;
+
+        // Convert EV100 to Lumen and assign
+        unityLight.intensity = LightUnitUtils.ConvertIntensity(
+            unityLight,
+            intensityEv100,
+            LightUnit.Ev100,
+            unityLight.lightUnit
+        );
+
+        // Volumetric light toggle
+        hdData.volumetricDimmer = enableVolumetrics ? 1f : 0f;
+
+        SyncWithEnemyVision();
     }
 
     void Update()
     {
-        // Optional: continuously sync if values may change at runtime
+        SyncWithEnemyVision();
+    }
+
+    private void SyncWithEnemyVision()
+    {
         if (enemyVision != null)
         {
-            spotLight.range = enemyVision.visionRange;
-            spotLight.spotAngle = enemyVision.fieldOfView;
+            unityLight.spotAngle = enemyVision.fieldOfView;
+            unityLight.range = enemyVision.visionRange;
+
+            // Recalculate intensity if EV100 changed at runtime
+            unityLight.intensity = LightUnitUtils.ConvertIntensity(
+                unityLight,
+                intensityEv100,
+                LightUnit.Ev100,
+                unityLight.lightUnit
+            );
         }
     }
 }
