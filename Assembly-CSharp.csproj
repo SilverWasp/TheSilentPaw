@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\Sc_EnemyVision.cs" />
     <Compile Include="Assets\Scripts\Sc_AlertUI.cs" />
     <Compile Include="Assets\Scripts\Sc_GameManager.cs" />
+    <Compile Include="Assets\Scripts\dsf.cs" />
     <Compile Include="Assets\Scripts\Sc_PickUpMessage.cs" />
     <Compile Include="Assets\Scripts\Sc_WallFadeManager.cs" />
     <Compile Include="Assets\Scripts\Sc_EnvironmentManager.cs" />
